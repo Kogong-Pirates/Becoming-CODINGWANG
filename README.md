@@ -15,7 +15,7 @@ __선원:__ [코공](https://github.com/SangKwon-Lee), [졸린새](https://githu
 작성한코드에 __주석을달아서__ pull 리퀘스트 하시면됩니다!
 ## 규칙
 * 과도한 질문과 코드리뷰 환영입니다!  
-* 매주 일요일까지 일요일 레포트제출입니다.
+* 매주 일요일까지 해당하는 주의 레포트제출입니다.
 
 ## 선원모집관련
 <a href="https://imgur.com/0GLTaDS"><img width="50%" src="https://i.imgur.com/0GLTaDS.jpg" title="source: imgur.com" /></a> 
