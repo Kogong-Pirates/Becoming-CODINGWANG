@@ -5,7 +5,7 @@
 코딩루키들이 야망을 펼치러 세상에 나서게 된다.  
 실력을 갈고닦아서 __우리모두 코딩왕이 될거야!__  
   
-__선원:__ [코공](https://github.com/SangKwon-Lee), [졸린새](https://github.com/sleepybird96), [JeKim](https://github.com/chiemsee30), [무나](https://github.com/munawiki), [emmerson](https://github.com/ssdd33)   
+__선원:__ [코공](https://github.com/SangKwon-Lee), [졸린새](https://github.com/sleepybird96), [JeKim](https://github.com/chiemsee30), [무나](https://github.com/munawiki), [emmerson](https://github.com/ssdd33), [빵맨](https://github.com/lovvp)  
   
 동료들이 획득한 정보들을 공유하는 레포입니다.  
 
