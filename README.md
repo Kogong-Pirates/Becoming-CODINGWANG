@@ -21,4 +21,4 @@ __선원:__ [코공](https://github.com/SangKwon-Lee), [졸린새](https://githu
 <a href="https://imgur.com/0GLTaDS"><img width="50%" src="https://i.imgur.com/0GLTaDS.jpg" title="source: imgur.com" /></a> 
 
 함께 코딩왕이 되실분을 모집하고 있습니다!  
-email: jetignis@gmail.com
+email: qkrwltkd99@gmail.com
